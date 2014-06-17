@@ -1,0 +1,5 @@
+C:\SOURCE\AiR2\Common\AiR.DataEntity\AiR.DataEntity.Contract\bin\Debug\AiR.DataEntity.Contract.dll
+C:\SOURCE\AiR2\Common\AiR.DataEntity\AiR.DataEntity.Contract\bin\Debug\AiR.DataEntity.Contract.pdb
+C:\SOURCE\AiR2\Common\AiR.DataEntity\AiR.DataEntity.Contract\obj\Debug\AiR.DataEntity.Contract.csprojResolveAssemblyReference.cache
+C:\SOURCE\AiR2\Common\AiR.DataEntity\AiR.DataEntity.Contract\obj\Debug\AiR.DataEntity.Contract.dll
+C:\SOURCE\AiR2\Common\AiR.DataEntity\AiR.DataEntity.Contract\obj\Debug\AiR.DataEntity.Contract.pdb
